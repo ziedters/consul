@@ -1,0 +1,5 @@
+- hosts: loc
+  sudo: true
+
+  role:
+    - sgargan.consul
